@@ -1,0 +1,16 @@
+h1 {
+    color: gold;
+}
+body {
+    background-color: brown;
+}
+html {text-align: center;
+}
+img {
+    width: 480px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
